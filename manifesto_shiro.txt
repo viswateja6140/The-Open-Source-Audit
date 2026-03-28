@@ -1,0 +1,3 @@
+On 28 March 2026, I believe open source means freedom to modify.
+Tools like Linux help people learn and grow.
+In future, I want to build a useful open source project and share it freely.
